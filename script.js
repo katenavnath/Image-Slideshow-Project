@@ -25,12 +25,12 @@ document.addEventListener("DOMContentLoaded", function () {
                     <img src="${imgURL}" alt="Uploaded Image">
                     <div class="content">
                         <div class="author">User</div>
-                        <div class="title">Custom Slider</div>
-                        <div class="topic">New Image</div>
+                        <div class="title"></div>
+                        <div class="topic"></div>
                         <div class="des">This is a newly added image</div>
                         <div class="buttons">
-                            <button>View</button>
-                            <button>Subscribe</button>
+                            <button>Like</button>
+                            <button>Add Favorite</button>
                         </div>
                     </div>
                 `;
